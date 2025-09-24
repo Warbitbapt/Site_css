@@ -6,7 +6,7 @@ sans-serif;
 h2 { text-align: center; font-family:Arial, "Trebuchet MS", Helvetica, 
 sans-serif;
 }
-a1 { text-decoration:none; width:75px; height:50px; border-color:black; 
+a { text-decoration:none; width:75px; height:50px; border-color:black; 
 border-top:2px solid; border-bottom:2px solid; border-right:2px solid; 
 border-left:2px solid; border-radius:10px 10px 10px; 
 -o-border-radius:10px 10px 10px; -webkit-border-radius:10px 10px 10px; 
@@ -14,8 +14,8 @@ font-family:"Trebuchet MS",Arial, Helvetica, sans-serif;
 -moz-border-radius:10px 10px 10px; background-color:#FF0020; 
 padding:8px; text-align:center;
 }
-a1:link {color:white;} /* unvisited link */ a1:visited {color:white;} /* 
-visited link */ a1:hover {color:white;} /* mouse over link */ a1:active 
+a:link {color:white;} /* unvisited link */ a:visited {color:white;} /* 
+visited link */ a1:hover {color:white;} /* mouse over link */ a:active 
 {color:white;} /* selected link */
 
 a2 { text-decoration:none; width:75px; height:50px; border-color:black; 
